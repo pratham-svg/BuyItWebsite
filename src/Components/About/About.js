@@ -9,10 +9,7 @@ const About = () => {
   return (
     <div className='Containerabout'>
     <div className='headerAbout'><h1>Our Team</h1></div>
-    <div className="aboutAbout">A website that allows people to buy and sell physical goods, services,
-          and digital products over the internet rather than at a brick-and-mortar location.
-          Through an e-commerce website, a business can process orders, accept payments,
-          manage shipping and logistics, and provide customer service.</div>
+    <div className="aboutAbout">All in all this was an extremely challenging project and one that absolutely forced us to learn and nail down difficult concepts such as creating a multiple association Node.js API using NoSQL/MongoDb, using React.js to hold and pass down state and writing logic functions to handle data on the frontend. I’ve learned a lot working on this project and completing it has made us hungry to apply these skills onto other endeavors.</div>
     <div className='sun-ContainerAbout'> 
 
       <div className="teamsAbout">
