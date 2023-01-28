@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BuyItWebsite/static/css/main.259289ec.css",
+    "main.js": "/BuyItWebsite/static/js/main.6f395542.js",
+    "static/js/787.28cb0dcd.chunk.js": "/BuyItWebsite/static/js/787.28cb0dcd.chunk.js",
+    "static/media/HomePage1.jpg": "/BuyItWebsite/static/media/HomePage1.b55b230527da5aa2e607.jpg",
+    "static/media/HomePage2.jpg": "/BuyItWebsite/static/media/HomePage2.b161d38e391316e1fe90.jpg",
+    "static/media/j.png": "/BuyItWebsite/static/media/j.4287aa554b8451e71cd8.png",
+    "static/media/Pratham1.png": "/BuyItWebsite/static/media/Pratham1.0d10278e5df5586a2316.png",
+    "static/media/shreya.png": "/BuyItWebsite/static/media/shreya.789a5ba199b06b092f4a.png",
+    "static/media/homePage.png.jpg": "/BuyItWebsite/static/media/homePage.png.f556aa49a7f44955f5e8.jpg",
+    "static/media/ravi.jpg": "/BuyItWebsite/static/media/ravi.b543d1fa946c232b724c.jpg",
+    "index.html": "/BuyItWebsite/index.html",
+    "main.259289ec.css.map": "/BuyItWebsite/static/css/main.259289ec.css.map",
+    "main.6f395542.js.map": "/BuyItWebsite/static/js/main.6f395542.js.map",
+    "787.28cb0dcd.chunk.js.map": "/BuyItWebsite/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259289ec.css",
+    "static/js/main.6f395542.js"
+  ]
+}
