@@ -37,11 +37,10 @@ const About = () => {
         <div className="aboutAbout"></div>
 
         <div className="social-links">
-          <a href=""><i className='fa fa-facebook'></i></a>
-          <a href=""><i className='fa fa-instagram'></i></a>
-          <a href=""><i className='fa fa-github'></i></a>
-          <a href=""><i className='fa fa-linkedin'></i></a>
-          <a href="https://www.linkedin.com/in/ravi-singh-763378182"><i class="fa-solid fa-square-envelope"></i></a>
+          <a href="https://instagram.com/pratham_panchariya?igshid=ZDdkNTZiNTM="><i className='fa fa-instagram'></i></a>
+          <a href="https://github.com/pratham-svg"><i className='fa fa-github'></i></a>
+          <a href="https://www.linkedin.com/in/pratham-panchariya-69560a177/"><i className='fa fa-linkedin'></i></a>
+          <a href="prathampanchariya@gmail.com"><i class="fa-solid fa-square-envelope"></i></a>
         </div>
       </div>
 
@@ -54,8 +53,8 @@ const About = () => {
         <div className="social-links">
           <a href="https://instagram.com/iam_jyoti_______?igshid=ZDdkNTZiNTM"><i className='fa fa-instagram'></i></a>
           <a href="https://github.com/Jyotibissoyi/jyoticoder.git"><i className='fa fa-github'></i></a>
-          <a href="https://www.linkedin.com/in/mr-rupam-gupta/"><i className='fa fa-linkedin'></i></a>
-           <a href="https://www.linkedin.com/in/ravi-singh-763378182"><i class="fa-solid fa-square-envelope"></i></a>
+          <a href="https://www.linkedin.com/in/jyoti-bissoyi-a30bb0242"><i className='fa fa-linkedin'></i></a>
+           <a href="jyotibissoyikhusbu2571@gmail.com"><i class="fa-solid fa-square-envelope"></i></a>
         </div>
       </div>
 
