@@ -1,6 +1,6 @@
 {
   "name": "BuyItWebsite",
-  "homepage": "https://pratham-svg.github.io/",
+  "homepage": "https://pratham-svg.github.io/BuyItWebsite",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
